@@ -44,3 +44,4 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Saunders Maclane (1992): [The Protean Character of Mathematics](https://www.degruyter.com/document/doi/10.1515/9783110870299.3/html)
 * George Lakoff (1987): [Women Fire and Dangerous Things](https://georgelakoff.com/about/women-fire-and-dangerous-things/)
    * Lakoff acknowleges conversations with Maclane.
+* Popoff, A (2020): [Transformational Music Theory (18): binary relations, relational presheaves](https://alpof.wordpress.com/2020/11/07/transformational-music-theory-18/)
