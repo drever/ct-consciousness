@@ -44,4 +44,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Saunders Maclane (1992): [The Protean Character of Mathematics](https://www.degruyter.com/document/doi/10.1515/9783110870299.3/html)
 * George Lakoff (1987): [Women Fire and Dangerous Things](https://georgelakoff.com/about/women-fire-and-dangerous-things/)
    * Lakoff acknowleges conversations with Maclane.
+* Gilles Fauconnier and Mark Turner (2004): [The Way We Think:
+Conceptual Blending and the Mind's Hidden Complexities](http://markturner.org/wwt.html) 
+   * Goguen builds on the theory of conceptual blending in [algebraic semiotics](https://cseweb.ucsd.edu/~goguen/projs/semio.html#:~:text=Algebraic%20semiotics%20combines%20aspects%20of,metaphor%20generation%2C%20among%20other%20things.)
 * Popoff, A (2020): [Transformational Music Theory (18): binary relations, relational presheaves](https://alpof.wordpress.com/2020/11/07/transformational-music-theory-18/)
