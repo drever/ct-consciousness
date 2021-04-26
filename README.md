@@ -3,7 +3,7 @@
 It is a common phenomenon that cateogegory theorists [contemplate on the deep roots of thought, mind and consciousness](https://twitter.com/_julesh_/status/1377543544815169539?s=20). This repository collects research in this area. Pull requests are welcome!
 
 # Integrated Information Theory
- * Johannes Kleiner and Sean Tull: [The Mathematical Structure of Integrated Information Theory](https://arxiv.org/pdf/2002.07655v1.pdf)
+ * Johannes Kleiner and Sean Tull (2020): [The Mathematical Structure of Integrated Information Theory](https://arxiv.org/pdf/2002.07655v1.pdf)
  
 # Joseph Goguen
 
