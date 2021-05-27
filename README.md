@@ -15,6 +15,12 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Joseph Goguen and Francisco Varela (1979): [Systems and Distinctions: Duality and Compementarity](https://cepa.info/paper.cgi?id=2060&action=add)
 * Joseph Goguen (1997): [Tossing Algebraic Flowers down the Great Divide](https://cseweb.ucsd.edu/~goguen/pps/tcs97.pdf)
 
+## Conceptual Blending
+* Goguen on [conceptual blending](https://cseweb.ucsd.edu/~goguen/papers/blend.html)
+* Marco Schorlemmer, Roberto Confalonieri, Enric Plaza (2016): [The Yoneda Path to the Buddhist Monk Blend](https://www.coinvent.uni-osnabrueck.de/fileadmin/publications/caos_workshop_yoneda.pdf)
+* Marco Schorlemmer, Enric Plaza (2021): [A uniform model of computational conceptual blending](https://www.sciencedirect.com/science/article/abs/pii/S1389041720300759)
+* Gilles Fauconnier, Mark Turner (2002): The Way We Think: Conceptual Blending And The Mind's Hidden Complexities 
+
 # Francisco Varela
 
 * Francisco Varela (1979): [Principles of Biological Autonomy](https://books.google.de/books/about/Principles_of_Biological_Autonomy.html?id=kdyGQgAACAAJ&redir_esc=y) 
