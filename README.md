@@ -57,3 +57,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 Conceptual Blending and the Mind's Hidden Complexities](http://markturner.org/wwt.html) 
    * Goguen builds on the theory of conceptual blending in [algebraic semiotics](https://cseweb.ucsd.edu/~goguen/projs/semio.html#:~:text=Algebraic%20semiotics%20combines%20aspects%20of,metaphor%20generation%2C%20among%20other%20things.)
 * Popoff, A (2020): [Transformational Music Theory (18): binary relations, relational presheaves](https://alpof.wordpress.com/2020/11/07/transformational-music-theory-18/)
+* Scott Garrabrant (2020): [Introduction to Cartesian Frames](https://www.lesswrong.com/posts/BSpdshJWGAW6TuNzZ/introduction-to-cartesian-frames)
+  > Mathematically, Cartesian frames are exactly [Chu spaces](https://ncatlab.org/nlab/show/Chu+construction). I give them a new name because of my specific interpretation about agency, which also highlights different mathematical questions.
+
+
