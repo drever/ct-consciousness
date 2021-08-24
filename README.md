@@ -29,6 +29,11 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Francisco Varela (1979): [Principles of Biological Autonomy](https://books.google.de/books/about/Principles_of_Biological_Autonomy.html?id=kdyGQgAACAAJ&redir_esc=y) 
   *  Principles of Biological Autonomy contains the joint work with Goguen. cf. [Louis H. Kauffman (2017): Mathematical Work of Francisco Varela](https://constructivist.info/13/1/011.kauffman.pdf)
 * Francisco J. Varela, Eleanor Rosch and Evan Thompson (1991) [The Embodied Mind Cognitive Science and Human Experience](https://mitpress.mit.edu/books/embodied-mind)
+
+#  Posina, Ghista and Roy
+* Venkata Rayudu Posina, Dhanjoo N. Ghista and Sisir Roy (2017): [Functorial Semantics for the Advancement of the Science of Cognition](https://philarchive.org/archive/POSFSF-2)
+* Posina, Sisir Roy (2018): [Category Theory and the Ontology of Sunyata](https://www.researchgate.net/publication/328722790_Category_Theory_and_the_Ontology_of_Sunyata)
+* Sisir Roy (2017): [Buddhist Thought on Emptiness and Category Theory](https://www.researchgate.net/publication/318460805_Buddhist_Thought_on_Emptiness_and_Category_Theory)
  
 # Memory Evolutive Neural Systems (MENS)
 * A C Ehresmann, J.P. Vanbremeersch (2007): [Memory Evolutive Systems; Hierarchy, Emergence, Cognition](https://www.amazon.com/Evolutive-Hierarchy-Emergence-Cognition-Multidisciplinarity/dp/0444522441)
