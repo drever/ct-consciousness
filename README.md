@@ -59,6 +59,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 
 # Misc
 * Jaime Gómez-Ramirez (2013): [The Categorical Imperative: Category Theory in Cognitive and Brain Science](https://link.springer.com/chapter/10.1007/978-94-007-7738-5_3)
+* Ellermann (2015): [On Adjoint and Brain Functors](https://arxiv.org/pdf/1508.04036.pdf)
 * Gordon Pask (1978): [Consciousness](https://www.tandfonline.com/doi/abs/10.1080/01969727908927608)
 * Saunders Maclane (1992): [The Protean Character of Mathematics](https://www.degruyter.com/document/doi/10.1515/9783110870299.3/html)
 * George Lakoff (1987): [Women Fire and Dangerous Things](https://georgelakoff.com/about/women-fire-and-dangerous-things/)
