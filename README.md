@@ -44,6 +44,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Steven Phillips (2020): [Sheaving—a universal construction for semantic compositionality](https://www.researchgate.net/publication/337969547_Sheaving-a_universal_construction_for_semantic_compositionality)
 * Steven Phillips (2020): [Feature: Category theory Invited Paper A category theory principle for cognitive science: cognition as universal construction](https://www.researchgate.net/publication/344912898_Feature_Category_theory_Invited_Paper_A_category_theory_principle_for_cognitive_science_cognition_as_universal_construction)
 * Steven Phillips and William H. Wilson (2010): [A Category Theory Explanation for Systematicity](https://www.researchgate.net/publication/215991249_A_Category_Theory_Explanation_for_Systematicity)
+* Graeme S.Halford and William H.Wilson (1980): [A category theory approach to cognitive development]()
 
 # Macnamara and Reyes
 * Macnamara and Reyes (1994): [The Logical Foundations of Cognition](https://www.semanticscholar.org/paper/The-Logical-Foundations-of-Cognition-Macnamara-Reyes/34f369becf919104a23748ca8763104867cec220)
