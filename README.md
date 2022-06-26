@@ -31,6 +31,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Francisco J. Varela, Eleanor Rosch and Evan Thompson (1991) [The Embodied Mind Cognitive Science and Human Experience](https://mitpress.mit.edu/books/embodied-mind)
 
 #  Posina, Ghista and Roy
+* Posina (2020) [Hard, Harder, and the Hardest Problem: The Society of Cognitive Selves](https://pdfs.semanticscholar.org/03e0/361e5a8ab3fc604418fa5290eee12b8a3d7c.pdf)
 * Venkata Rayudu Posina, Dhanjoo N. Ghista and Sisir Roy (2017): [Functorial Semantics for the Advancement of the Science of Cognition](https://philarchive.org/archive/POSFSF-2)
 * Posina, Sisir Roy (2018): [Category Theory and the Ontology of Sunyata](https://www.researchgate.net/publication/328722790_Category_Theory_and_the_Ontology_of_Sunyata)
 * Sisir Roy (2017): [Buddhist Thought on Emptiness and Category Theory](https://www.researchgate.net/publication/318460805_Buddhist_Thought_on_Emptiness_and_Category_Theory)
