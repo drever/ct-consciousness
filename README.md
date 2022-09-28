@@ -40,6 +40,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * A C Ehresmann, J.P. Vanbremeersch (2007): [Memory Evolutive Systems; Hierarchy, Emergence, Cognition](https://www.amazon.com/Evolutive-Hierarchy-Emergence-Cognition-Multidisciplinarity/dp/0444522441)
 * A C Ehresmann, J.P. Vanbremeersch (2012): [MENS, a mathematical model for cognitive systems](http://www.aslab.org/documents/journals/JMT/Vol0-No2/JMT_0_2-MEN-EHRESMANN.pdf)
 * [Discussion by Subset of Theoretical Practice on MENS](https://www.youtube.com/watch?v=aXqpxRLX8cM)
+* Thomas Roth (2018): [On Domain Unifying Categorical Kinds - The Formation of a Psychophysical Algebra](https://edoc.ub.uni-muenchen.de/23088/1/Roth_Thomas.pdf)
 
 # Steven Phillips and William H. Wilson
 * Graeme S. Halford, William H. Wilson, Glenda Andrews, Steven Phillips (2014): [Categorizing Cognition: Toward Conceptual Coherence in the Foundations of Psychology](https://direct.mit.edu/books/book/3692/Categorizing-CognitionToward-Conceptual-Coherence)
