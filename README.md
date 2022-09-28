@@ -7,7 +7,11 @@ It is a common phenomenon that cateogegory theorists [contemplate on the deep ro
 
 # Bob Coecke et al.
   * Camilo Miguel Signorelli, Quanlong Wang, Bob Coecke (2021): [Reasoning about conscious experience with axiomatic and graphical mathematics](https://arxiv.org/pdf/2106.16061.pdf)
-  
+
+# CyberCats
+* [CyberCats institute](https://cybercat.institute/)
+*  Jerry Swan, Eric Nivel, Neel Kant, Jules Hedges, Timothy Atkinson, Bas Steunebrink (2022): [The Road to General Intelligence](https://link.springer.com/book/10.1007/978-3-031-08020-3)
+
 # Joseph Goguen
 
 Joseph Goguen was the founder and editor of the [Journal of Consciousness Studies](https://www.imprint.co.uk/product/jcs/).
