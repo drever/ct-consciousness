@@ -77,7 +77,7 @@ Conceptual Blending and the Mind's Hidden Complexities](http://markturner.org/ww
 * Popoff, A (2020): [Transformational Music Theory (18): binary relations, relational presheaves](https://alpof.wordpress.com/2020/11/07/transformational-music-theory-18/)
 * Scott Garrabrant (2020): [Introduction to Cartesian Frames](https://www.lesswrong.com/posts/BSpdshJWGAW6TuNzZ/introduction-to-cartesian-frames)
   > Mathematically, Cartesian frames are exactly [Chu spaces](https://ncatlab.org/nlab/show/Chu+construction). I give them a new name because of my specific interpretation about agency, which also highlights different mathematical questions.
-* [Association for Mathematical Consciousness Science (AMCS)](https://amcs-community.org/)https://github.com/mattearnshaw/lawvere
+* [Association for Mathematical Consciousness Science (AMCS)](https://amcs-community.org/)
 * [The collected works of F. W. Lawvere](https://github.com/mattearnshaw/lawvere)
-
+* Nicholas Kluge Corrêa: [Axiomatic methods: Lawvere's mathematical interpretation of Hegel's logic](https://philarchive.org/archive/CORMAA-3v1)
 
