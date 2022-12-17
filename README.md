@@ -28,6 +28,11 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Marco Schorlemmer, Enric Plaza (2021): [A uniform model of computational conceptual blending](https://www.sciencedirect.com/science/article/abs/pii/S1389041720300759)
 * Gilles Fauconnier, Mark Turner (2002): The Way We Think: Conceptual Blending And The Mind's Hidden Complexities 
 
+# Robert Rosen
+* Robert Rosen (1972): Some relational cell models: The metabolism-repair systems
+* [A. H. Louie](https://ahlouie.com/), [relational biology](https://ahlouie.com/relational-biology/)
+* Tatsuya Nomura (2007): [Category Theoretical Distinction Between Autopoiesis and (M,R) Systems](https://link.springer.com/chapter/10.1007/978-3-540-74913-4_47)
+
 # Francisco Varela
 
 * Francisco Varela (1979): [Principles of Biological Autonomy](https://books.google.de/books/about/Principles_of_Biological_Autonomy.html?id=kdyGQgAACAAJ&redir_esc=y) 
@@ -80,4 +85,3 @@ Conceptual Blending and the Mind's Hidden Complexities](http://markturner.org/ww
 * [Association for Mathematical Consciousness Science (AMCS)](https://amcs-community.org/)
 * [The collected works of F. W. Lawvere](https://github.com/mattearnshaw/lawvere)
 * Nicholas Kluge Corrêa: [Axiomatic methods: Lawvere's mathematical interpretation of Hegel's logic](https://philarchive.org/archive/CORMAA-3v1)
-
