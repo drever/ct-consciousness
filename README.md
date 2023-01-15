@@ -11,6 +11,7 @@ It is a common phenomenon that cateogegory theorists [contemplate on the deep ro
 # CyberCats
 * [CyberCats institute](https://cybercat.institute/)
 *  Jerry Swan, Eric Nivel, Neel Kant, Jules Hedges, Timothy Atkinson, Bas Steunebrink (2022): [The Road to General Intelligence](https://link.springer.com/book/10.1007/978-3-031-08020-3)
+* Toby St Clere Smithe (2023): [Mathematical Foundations for a Compositional Account of the Bayesian Brain](https://arxiv.org/abs/2212.12538)
 
 # Joseph Goguen
 
