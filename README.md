@@ -33,7 +33,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Robert Rosen (1972): Some relational cell models: The metabolism-repair systems
 * [A. H. Louie](https://ahlouie.com/), [relational biology](https://ahlouie.com/relational-biology/)
 * Tatsuya Nomura (2007): [Category Theoretical Distinction Between Autopoiesis and (M,R) Systems](https://link.springer.com/chapter/10.1007/978-3-540-74913-4_47)
-
+* Franck Varenne (2013): [The Mathematical Theory of Categories in Biology and the Concept of Natural Equivalence in Robert Rosen](https://www.cairn-int.info/article-E_RHS_661_0167--the-mathematical-theory-of-categories-in.htm) - Historical Overview
 # Francisco Varela
 
 * Francisco Varela (1979): [Principles of Biological Autonomy](https://books.google.de/books/about/Principles_of_Biological_Autonomy.html?id=kdyGQgAACAAJ&redir_esc=y) 
