@@ -71,6 +71,7 @@ Joseph Goguen was the founder and editor of the [Journal of Consciousness Studie
 * Ed Dubinsky (2002): [Reflective Abstraction in Advanced Mathematical Thinking](https://link.springer.com/chapter/10.1007/0-306-47203-1_7)
 
 # Misc
+* Naotsugu Tsuchiya, Hayato Saigo (2021): [A relational approach to consciousness: categories of level and contents of consciousness](https://academic.oup.com/nc/article/2021/2/niab034/6397521)
 * Jaime Gómez-Ramirez (2013): [The Categorical Imperative: Category Theory in Cognitive and Brain Science](https://link.springer.com/chapter/10.1007/978-94-007-7738-5_3)
 * Ellermann (2015): [On Adjoint and Brain Functors](https://arxiv.org/pdf/1508.04036.pdf)
 * Gordon Pask (1978): [Consciousness](https://www.tandfonline.com/doi/abs/10.1080/01969727908927608)
